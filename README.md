@@ -2,7 +2,7 @@ This is a [React.js](https://reactjs.org/) project that integrates [Mercury Chat
 
 This repository serves as an example to showcase how you can embed Mercury Chat into your Cardano DAPP. This example works for both Typescript and Javascript frontends.
 
-</br />
+<br />
 
 ## Integration
 
