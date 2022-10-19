@@ -21,6 +21,7 @@ After this we need to add this to our application:
 ```
 
 And we're done! Congratulations you have successfully added Mercury Chat to your Cardano Dapp!
+![ReactFullscreen](https://user-images.githubusercontent.com/17760631/196577873-93c6bb2d-3d10-464b-9da4-4cb633cc894f.PNG)
 
 <br />
 
@@ -28,8 +29,9 @@ And we're done! Congratulations you have successfully added Mercury Chat to your
 There are some options allow you to customize the Mercury Chat experience. Below is an example of the options that can be used. The full option documentation can be found in the [Mercury Chat NPM Page](https://www.npmjs.com/package/@mercury-chat/react-chat)
 
 ```
-<MercuryChat position={'bottom-right'} hasFullscreen={true} showBackground={true} />
+<MercuryChat position={'bottom-right'} hasFullscreen={false} showBackground={false} />
 ```
+![ReactSmallScreen](https://user-images.githubusercontent.com/17760631/196577907-d2bdd1fa-0f25-4652-baac-c1b467c862f7.PNG)
 
 <br />
 
